@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Multicollinearity and Analyzing RCT data with Precision Adjustment"
+excerpt: "https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_3/group3_lab3_Rscript.ipynb"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This R's script show the result of multicollinearity and analyze RCT data from the Pennsylvania reemployment bonus experiment. 
